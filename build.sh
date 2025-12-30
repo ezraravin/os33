@@ -15,4 +15,4 @@ rm -rf /tmp/nvim*
 df -h /tmp
 
 # Build the ISO (takes 10-20 minutes)
-sudo mkarchiso -v -r -w /tmp/archiso-tmp -o ./output ./
+sudo mkarchiso -v -r -w /tmp/archiso-tmp -o ~/ArchISO ./
